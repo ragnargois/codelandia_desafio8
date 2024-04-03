@@ -42,14 +42,13 @@ O projeto foi desenvolvido com as tecnologias abaixo: <br>
 * [Codelândia](https://discord.gg/79qyJwdsGk)
 <br>
 <br>
-
-[Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=157277-3228&mode=design&t=VRAOw7mZJo1FVQnt-0)
+### Projeto: [Figma](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?type=design&node-id=157277-3228&mode=design&t=VRAOw7mZJo1FVQnt-0)
 <br>
 <br>
 
 ----------------------------------------------------------------------------------------------------
 ### Meus agradecimentos a: 
-[Iuri Silva](https://www.linkedin.com/in/iuricode/?originalSubdomain=br)
+[Iuri Silva](https://www.linkedin.com/in/iuricode/?originalSubdomain=br)<br>
 [Geovana Borba](https://www.linkedin.com/in/geovanaborba/)
 <br>
 <br>
